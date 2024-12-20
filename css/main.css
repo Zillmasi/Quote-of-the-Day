@@ -1,0 +1,27 @@
+.home h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+
+.home p {
+  font-family: "Noto Serif", serif;
+  font-size: 35px;
+}
+
+.home .btnn {
+  padding: 20px 50px;
+  background-color: blue;
+  color: white;
+  transition: 0.5s;
+  border-radius: 20px;
+  border: none;
+}
+
+.home .btnn:hover {
+  background-color: green;
+}
+
+#quoets  {
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
